@@ -1,2 +1,4 @@
 # Python-Lectures
-Crash course info on how to program in Python. All files are in a .ipynb format (AKA Jupyter Notebooks). The PDF version of the notes will be made available soon.
+Crash course info on how to program in Python. All files are in a .ipynb format (AKA Jupyter Notebooks). The HTML format can be found in the HTML folder.
+
+Note that you can still read the Jupyter Notebooks and Python Files in Github directly!
